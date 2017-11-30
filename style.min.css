@@ -1,0 +1,1 @@
+html,body,.wrap{width:100%;height:100%;display:flex;flex-direction:column}html header{width:100%;height:3.3rem;flex-shrink:0;background:#ece}section{flex:1;overflow:auto;flex-shrink:1}footer{width:100%;height:3.3rem;flex-shrink:0;background:#000}
