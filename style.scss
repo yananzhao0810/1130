@@ -7,7 +7,14 @@ html,body,.wrap{
     display: flex;
     flex-direction: column;
 }
-html
+*{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+html{
+    font-size:62.5%;
+}
 header{
     width:$width;
     height:3.3rem;
